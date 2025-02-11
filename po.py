@@ -6,7 +6,7 @@ app.secret_key = "3f9c4e0c5fddba2dc14b89f3d16e3e2d1fc9db16c7637c1b5f8d6a76908fd8
 
 DISCORD_CLIENT_ID = "1337995257316380725"
 DISCORD_CLIENT_SECRET = "YMOc4zT_UgqHJ714s4HL3UlGFhwPy0mD"
-REDIRECT_URI = "https://cede-75-217-139-244.ngrok-free.app/callback"
+REDIRECT_URI = "https://quiet-pzo9.vercel.app/callback"
 DISCORD_AUTH_URL = "https://discord.com/api/oauth2/authorize"
 DISCORD_TOKEN_URL = "https://discord.com/api/oauth2/token"
 DISCORD_API_URL = "https://discord.com/api/v10/users/@me"
